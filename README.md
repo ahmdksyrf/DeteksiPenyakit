@@ -1,0 +1,2 @@
+# DeteksiPenyakit
+TugasAkhirInformatika
